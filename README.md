@@ -12,6 +12,7 @@ This is a very simple and basic application to teach you how to add an event cal
     Laravel helpers are used for compatibility in string formatting.
     They are installed using the following commands.
 
+-   composer require maddhatter/laravel-fullcalendar
 -   composer require laravelcollective/html
 -   composer require laravel/helpers
 

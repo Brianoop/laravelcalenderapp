@@ -14,10 +14,10 @@ use App\Http\Controllers\EventController;
 |
 */
 
+Route::get('/',  [EventController::class, 'index'])->name('events.index');
 
 Route::get('events',  [EventController::class, 'index'])->name('events.index');
 Route::post('events', [EventController::class, 'addEvent'])->name('events.add');
 
 
 
-Route::get('/user', [EventController::class, 'index']);

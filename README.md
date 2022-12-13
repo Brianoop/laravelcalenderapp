@@ -22,7 +22,7 @@ This is a very simple and basic application to teach you how to add an event cal
 -   Run migrations using **php artisan migrate**
 -   Serve the app using **php artisan serve**
 -   Alternatively, you can specify the host and ports to serve your application
--   Example \*\*php artisan serve --host=192.168.0.1 --port=5000
+-   Example **php artisan serve --host=192.168.0.1 --port=5000**
 
 ## Lastly
 
